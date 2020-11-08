@@ -1,4 +1,4 @@
-# Forge Hello World
+# Forge Hello no Jira
 
 This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel. 
 
@@ -28,10 +28,7 @@ forge tunnel
 ```
 
 ### Notes
+- For personal/study use!
 - Use the `forge deploy` command when you want to persist code changes.
 - Use the `forge install` command when you want to install the app on a new site.
 - Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
-
-## Support
-
-See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
