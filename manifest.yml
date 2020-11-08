@@ -1,0 +1,12 @@
+modules:
+  jira:issuePanel:
+    - key: cd-helloforge-hello-world-panel
+      function: main
+      title: hello app forge Julio
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/95fd8b9d-f079-4916-86c9-fb9381566d3d
+  name: cd helloforge
