@@ -1,31 +1,8 @@
 # Forge Hello no Jira
 
-This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel. 
-
+Test Forge app written in Javascript that displays `Hello World!` in a Jira issue panel.
 See Developer Forge for documentation and tutorials explaining Forge.
 
-## Requirements
-
-See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
-
-## Quick start
-
-- Modify your app by editing the `src/index.jsx` file.
-
-- Build and deploy your app by running:
-```
-forge deploy
-```
-
-- Install your app in an Atlassian site by running:
-```
-forge install
-```
-
-- Develop your app by running `forge tunnel` to proxy invocations locally:
-```
-forge tunnel
-```
 
 ### Notes
 - For personal/study use!
